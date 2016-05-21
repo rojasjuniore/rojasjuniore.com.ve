@@ -1,0 +1,113 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #0D0000;
+}
+
+img{
+	max-width: 80%;
+}
+
+.letratext{
+	font-family: 'Arvo', serif;
+}
+
+.quitar-float{
+	float: none;
+}
+
+.espacio-arriba{
+	margin-top: 60px;
+}
+
+.pacifico{
+	font-family: 'Pacifico', 
+	cursive;
+}
+
+.se-gris{
+	background-color: #eee;
+}
+
+.grande{
+	font-size: 3em;
+}
+
+.color-titulo{
+	color: #023E73
+}
+
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+
+.inline-block{
+	float: none;
+	display:  inline-block;
+}
+
+.no-lista li {
+	list-style-type: none;
+	
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+
+a, .colormenu{
+	color: #023E73;
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
+.mediano{
+	font-size: 1.5em;
+}
+
+.pequeno{
+	font-size: 0.5em;
+}
+
+.retraso-1{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	 animation-delay: 1s;
+
+}
+
+.retraso-2{
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	 animation-delay: 1.5s;
+
+}
+
+.retraso-3{
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	 animation-delay: 2s;
+
+}
+
+.retraso-4{
+	-webkit-animation-delay: 2.5s;
+	-moz-animation-delay: 2.5s;
+	 animation-delay: 2.5s;
+
+}
+
+.retraso-5{
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	 animation-delay: 3s;
+
+}
+
+h3,p,br{
+	font-family: 'Pacifico', 
+	cursive;
+	font-size: 2em;
+}
