@@ -1,6 +1,5 @@
 body{
 	font-family: 'Lato', sans-serif;
-	color: #0D0000;
 }
 
 img{
@@ -17,6 +16,12 @@ img{
 
 .espacio-arriba{
 	margin-top: 60px;
+}
+.espacio-arriba1{
+	margin-top: 150px;
+}
+.espacio-abajo{
+	margin-top: 100px;
 }
 
 .pacifico{
@@ -51,8 +56,12 @@ img{
 	
 }
 
+
 .espacio-derecha{
 	margin-right: 1em;
+}
+.espacio-left{
+	margin-left: 3em;
 }
 
 
@@ -69,6 +78,9 @@ a, .colormenu{
 
 .pequeno{
 	font-size: 0.5em;
+}
+.pequeno2{
+	font-size: 1em;
 }
 
 .retraso-1{
